@@ -12,7 +12,14 @@ function twitterred(){
 }
 
 function nothing(){
-    var fnt 
+    var fnt
     for(fnt = 1;fnt<6699 ; fnt++);
     alert("look number " + fnt);
+}
+function homepage(){
+  window.location.href= "front.html"
+}
+
+function modelpage(){
+  window.location.href= "model.html"
 }
