@@ -1,3 +1,4 @@
+//function to set the cool black square that renders stuff
 function main(){
 
   const canvas = document.querySelector("#glCanvas");
@@ -17,3 +18,5 @@ function main(){
 
 }
 window.onload = main;
+
+//here i will add the script for rendering an object someday
