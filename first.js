@@ -22,7 +22,7 @@ function nothing(){
 }
 // front page redirect
 function homepage(){
-  window.location.href= "front.html"
+  window.location.href= "index.html"
 }
 //3d model page redirect
 function modelpage(){
