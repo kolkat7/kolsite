@@ -67,9 +67,10 @@ h1{
   max-height: 190px;
 }
 .titgrand{
-
-  font-size: 5%;
-  font-style: italic;
+  margin: 0 30%;
+  border-style: dotted;
+  border-width: .15em;
+  font-size: 250%;
 }
 .c1{
     margin-top: 2%;
