@@ -31,3 +31,9 @@ function modelpage(){
 function memepage(){
   window.location.href= "meme.html"
 }
+function coso(){
+
+
+
+
+}

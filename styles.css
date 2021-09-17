@@ -126,3 +126,7 @@ margin:4% 8%;
     padding:0.5% 4%;
     color: rgb(44, 6, 44);
 }
+
+#canvas{
+  max-width: 300px;
+}
