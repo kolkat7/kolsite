@@ -28,3 +28,6 @@ function homepage(){
 function modelpage(){
   window.location.href= "model.html"
 }
+function memepage(){
+  window.location.href= "meme.html"
+}

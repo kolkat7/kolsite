@@ -61,30 +61,37 @@ h1{
     text-align: center;
     background-color: rgb(250, 131, 198);
     border-radius: 30px;
-    max-height: 30%;
+    min-width: 610px;
 }
 .p1a{
-  max-height: 190px;
+  max-height: 260px;
+  min-height: 150px;
+
 }
 .titgrand{
   margin: 0 30%;
   border-style: dotted;
   border-width: .15em;
   font-size: 250%;
+  max-height: 156px;
+  min-width: 230px;
 }
 .c1{
-    margin-top: 2%;
-    padding: 2% 0 3% 0;
-    margin: 2%;
+    padding: 2% 0 1% 0;
+    margin: 2% 0 3%;
+    padding-bottom: 10%;
 }
 .c2{
     display: flex;
     flex-direction: column;
-    justify-content: center;
     background-color: rgb(250, 174, 209);
     margin:1% 2%;
+    padding: 2% 0 2%;
     border-radius:15px;
-
+    overflow-x: hidden;
+    overflow-y: auto;
+    scroll-behavior: smooth;
+    max-height: 450px;
 }
 .para1{
 margin:4% 8%;
