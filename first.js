@@ -31,9 +31,11 @@ function modelpage(){
 function memepage(){
   window.location.href= "meme.html"
 }
+//coso = es cuando queria hacer el resize de la imagen
 function coso(){
-
-
-
+  var cos = Math.random();
+  cos = cos * 100;
+  cos = Math.round(cos);
+  console.log(cos + "%");
 
 }
